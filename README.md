@@ -7,6 +7,22 @@ Code: This directory contains the project code in both Jupyter Notebook (.ipynb)
 
 Data: The data used for this project is not included in the repository due to size limitations. However, you can access it from the following Google Drive link: https://drive.google.com/drive/folders/1NWt8lap3spKKK_trOAzkdXAxlEhv2t0m?usp=sharing
 
+## Dataset Directory Structure
+
+data
+ ├ drone2021 (62.4GB)
+ │  ├ images
+ │  └ annotations
+ ├ mva2023_sod4bird_train (9.4GB)
+ │  ├ images
+ │  └ annotations
+ ├ mva2023_sod4bird_pub_test (8.7GB)
+ │  ├ images
+ │  └ annotations(including an empty annotation file)
+ └ mva2023_sod4bird_private_test (4kB)
+    ├ images(empty)
+    └ annotations(empty)
+
 Usage
 
 1. Clone this repository to your local machine.
