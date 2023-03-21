@@ -1,5 +1,5 @@
-# 640_project_Team_16
-CS 640 COURSE PROJECT REPO
+# CS 640 Project_Team_16
+## Small Object Detection Challenge for Spotting Birds @MVA2023
 
 # Contents
 
