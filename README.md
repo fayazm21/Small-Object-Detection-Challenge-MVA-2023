@@ -15,15 +15,12 @@ data
  ├ drone2021 (62.4GB)
  │  ├ images
  │  └ annotations
- ├ mva2023_sod4bird_train (9.4GB)
+ ├ project_train (9.4GB)
  │  ├ images
  │  └ annotations
- ├ mva2023_sod4bird_pub_test (8.7GB)
- │  ├ images
- │  └ annotations(including an empty annotation file)
- └ mva2023_sod4bird_private_test (4kB)
-    ├ images(empty)
-    └ annotations(empty)
+ ├ project_test (8.7GB)
+    ├ images
+    └ annotations(including an empty annotation file)
  ```   
 
 ## Repo Structure
