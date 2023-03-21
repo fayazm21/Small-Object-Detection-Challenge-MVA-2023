@@ -7,19 +7,6 @@ Code: This directory contains the project code in both Jupyter Notebook (.ipynb)
 
 Data: The data used for this project is not included in the repository due to size limitations. However, you can access it from the following Google Drive link: https://drive.google.com/drive/folders/1NWt8lap3spKKK_trOAzkdXAxlEhv2t0m?usp=sharing
 
-## REPO STRUCTURE:
-
-├── code
-│ ├── project_640.ipynb
-│ ├── project_640.py
-│ ├── config
-│ ├── base
-│ ├── coco_detection.py
-│ ├── faster_rcnn_r50_fpn.py
-│ └── faster_rcnn_r50_fpn_1x_coco.py
-│ └── faster_rcnn_r50_fpn_1x_bird.py
-└── data -> file location of data
-
 Usage
 
 1. Clone this repository to your local machine.
