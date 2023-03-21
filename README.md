@@ -26,6 +26,21 @@ data
     └ annotations(empty)
  ```   
 
+## Repo Structure
+
+```
+├── code
+│   ├── project_640.ipynb
+│   ├── project_640.py
+│   ├── config
+│       ├── base
+│           ├── coco_detection.py
+│           ├── faster_rcnn_r50_fpn.py
+│           └── faster_rcnn_r50_fpn_1x_coco.py
+│       └── faster_rcnn_r50_fpn_1x_bird.py
+└── data
+```
+
 Usage
 
 1. Clone this repository to your local machine.
