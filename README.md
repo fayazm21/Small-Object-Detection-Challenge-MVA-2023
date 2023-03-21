@@ -21,15 +21,3 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-.
-├── code
-│   ├── project_640.ipynb
-│   ├── project_640.py
-│   ├── config
-│       ├── base
-│           ├── coco_detection.py
-│           ├── faster_rcnn_r50_fpn.py
-│           └── faster_rcnn_r50_fpn_1x_coco.py
-│       └── faster_rcnn_r50_fpn_1x_bird.py
-└── data -> file location of data
-
