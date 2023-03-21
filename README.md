@@ -9,7 +9,6 @@ Data: The data used for this project is not included in the repository due to si
 
 ## REPO STRUCTURE:
 
-.
 ├── code
 │ ├── project_640.ipynb
 │ ├── project_640.py
