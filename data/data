@@ -8,21 +8,18 @@ data
  ├ drone2021 (62.4GB)
  │  ├ images
  │  └ annotations
- ├ mva2023_sod4bird_train (9.4GB)
+ ├ project_train (9.4GB)
  │  ├ images
  │  └ annotations
- ├ mva2023_sod4bird_pub_test (8.7GB)
- │  ├ images
- │  └ annotations(including an empty annotation file)
- └ mva2023_sod4bird_private_test (4kB)
-    ├ images(empty)
-    └ annotations(empty)
+ ├ project_test (8.7GB)
+    ├ images
+    └ annotations(including an empty annotation file)
     
 ## Images and instances:
 Train :
 Train1(modified based on [2]) (drone2021): Consists of 47,260 images with 60,971 annotated bird instances.
-Train2 (mva2023_sod4bird_train): Consists of 9,759 images with 29,037 annotated bird instances.
-Public test (mva2023_sod4bird_pub_test) : Consists of 9,699 images.
+Train2 (project_train): Consists of 9,759 images with 29,037 annotated bird instances.
+Public test (project_test) : Consists of 9,699 images.
 Private test (mva2023_sod4bird_private_test): Consists of approximately 10,000 images.
 
 ## Data format :
