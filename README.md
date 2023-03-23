@@ -38,6 +38,11 @@ data
 └── data
 ```
 
+## Pre-Trained Weights
+
+You can download the pre-trained weights using the following link:
+**(https://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_caffe_fpn_mstrain_3x_coco/faster_rcnn_r50_caffe_fpn_mstrain_3x_coco_20210526_095054-1f77628b.pth)**
+
 Usage
 
 1. Clone this repository to your local machine.
