@@ -1,4 +1,4 @@
-## Small Object Detection Challenge for Spotting Birds @MVA2023
+# Small Object Detection Challenge for Spotting Birds @MVA2023
 
 # Contents
 
