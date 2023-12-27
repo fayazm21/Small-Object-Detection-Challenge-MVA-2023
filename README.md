@@ -52,6 +52,10 @@ Usage
 
 4. Run the Jupyter Notebook or Python script to train and evaluate the bird detection model.
 
+## Snapshots and Demonstrations
+Snapshots of the project's results and interface are included for a quick overview of the project's capabilities.
+![snap1](result.png)
+
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
